@@ -22,5 +22,29 @@
     "price": "800.000",
     "detail": "Arial Street, 1674, Santa Catarina, Brazil",
     "image": "./house2.jpg"
+  },
+  {
+    "name": "Golden Oak House",
+    "price": "2.000.000",
+    "detail": "Helvetica Street, 6754, São Paulo, Brazil",
+    "image": "./house1.jpg"
+  },
+  {
+    "name": "Red Stone House",
+    "price": "1.000.000",
+    "detail": "Poppins Street, 3789, Belo Horizonte, Brazil",
+    "image": "./house3.jpg"
+  },
+  {
+    "name": "White Stone House",
+    "price": "1.500.000",
+    "detail": "Sans-serif Street, 2000, Rio de Janeiro, Brazil",
+    "image": "./house4.jpg"
+  },
+  {
+    "name": "Grand Garden House",
+    "price": "800.000",
+    "detail": "Arial Street, 1674, Santa Catarina, Brazil",
+    "image": "./house2.jpg"
   }
 ]
